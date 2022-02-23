@@ -12,5 +12,5 @@
 - Lab3-1 - Additional Exercise ch06
 
 - Lab4 - Recursion
-- Final Project - Gluttonous Snake Project
+- Final Project - Guess Number and Card Game
 
